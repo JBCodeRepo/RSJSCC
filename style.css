@@ -1,0 +1,49 @@
+#tb-rot {
+    width: 50px;
+}
+
+#controls {
+    margin: 0 auto;
+    width: 17%;
+    display: block;
+
+}
+
+#mode {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#lbl-rot {
+    margin-right: 0;
+}
+
+#tb-rot {
+    margin-left: 0;
+}
+
+textarea {
+    width: 500px;
+    height: 150px;
+}
+
+* {
+    margin: 5px;
+}
+
+h3, h2, h1 {
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #009900;
+}
+
+textarea {
+    margin: auto;
+    display: block;
+}
